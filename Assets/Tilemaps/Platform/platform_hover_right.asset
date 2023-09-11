@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: platform_hover_right
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -3761696695686223214, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -4852071126297781040, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 3196228837281038509, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -3045142091007899281, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 4228773401179962695, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 1504545972753172239, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 8136358469396003958, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -2909504076862523260, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 5290955449174194768, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 9094636351647627994, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -9113434371705009837, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -6085219838984220613, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -73261834153052910, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 5880971975847311146, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -4469305396777260534, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 8807537568815298919, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: 4006718809440206563, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -2303475044164249522, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  - {fileID: -1274284615612829326, guid: 31aa71e84f109d846a55323413f32f27, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
